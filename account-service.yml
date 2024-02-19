@@ -4,7 +4,7 @@ spring:
     hibernate:
       ddl-auto: create-drop
   datasource:
-    url: jdbc:postgresql://localhost:5222/account_db
+    url: jdbc:postgresql://localhost:5444/account_db
     username: postgres
     password: postgres
     driver-class-name: org.postgresql.Driver
